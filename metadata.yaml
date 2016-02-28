@@ -1,0 +1,31 @@
+_repo: The-Esperanto-Teacher-A-Simple-Course-for-Non-Grammarians_8177
+contributor:
+  creator:
+    editor:
+      agent_name: Millidge, Edward A.
+      gutenberg_agent_id: '34759'
+      url: http://www.gutenberg.org/2009/agents/34759
+creator:
+  author:
+    agent_name: Fryer, Helen
+    gutenberg_agent_id: '2681'
+    url: http://www.gutenberg.org/2009/agents/2681
+description: ''
+gutenberg_bookshelf:
+- Esperanto
+- Language Education
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8177'
+language:
+- en
+- eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PM'
+- !lcsh 'Esperanto -- Textbooks'
+title: 'The Esperanto Teacher: A Simple Course for Non-Grammarians'
+url: http://www.gutenberg.org/ebooks/8177
